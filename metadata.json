@@ -1,0 +1,6 @@
+{
+  "name": "THE LEGEND PUZZLE 🧩😂",
+  "description": "A hilarious sliding photo puzzle game celebrating the legendary adventures of Nihal Suhail across 4 epic challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
